@@ -41,4 +41,4 @@ This repository contains Terraform and Kubernetes code for deploying WordPress a
 1. Clone the repository:
    ```bash
    git clone https://github.com/dinurangacs/DevOps_Test.git
-   cd your-repo
+   cd DevOps_Test
